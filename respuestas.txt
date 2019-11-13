@@ -1,0 +1,3 @@
+---->PREGUNTA 1: Resolviendo para /lambda = 1, se espera obtener las ecuaciones de un oscilador armónico.
+
+---->PREGUNTA 2: Esperamos soluciones de forma sinusoidal, tanto para x como para v. Además, el espacio de fase debe ser una espiral debido a que se pierde energía.
